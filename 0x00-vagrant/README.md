@@ -1,1 +1,1 @@
-vagrant intro
+opening vagrant
